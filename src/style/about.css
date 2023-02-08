@@ -1,0 +1,23 @@
+.about-head-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 27px; */
+}
+.about-text {
+    font-size: 22px;
+    color: #999999;
+}
+.section-3 {
+    justify-content: space-around;
+}
+.section-3-text {
+    text-align: center;
+    font-size: 17px;
+    line-height: 25px;
+    color: #999999;
+}
+.section-3-header-text:hover{
+    color: aquamarine;
+
+}

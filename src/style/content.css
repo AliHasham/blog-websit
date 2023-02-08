@@ -1,0 +1,38 @@
+.content {
+     background-image: linear-gradient(to right,#15416e, #3367AF );  
+    background-color:rgb(87 175 189);
+    padding: 85px;
+}
+.content-h{
+    color: white;
+    margin-top: 164px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-p{
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-summary {
+    display: flex;
+    color: #4c63d3;
+    margin-left: 60px;
+    font-size: 25px;
+}
+.register-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-register{
+    margin-left: 250px;
+    border: none;
+    border-radius: 14px;
+    padding: 8px;
+    width: 20%;
+    margin-top: 17px;
+}
